@@ -176,6 +176,41 @@
                 "url": "https://shiyuanyinian.xyz/#/plan"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1722847034971,
+            "title": "静态书签",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1722847062364,
+                "title": "我的静态书签",
+                "icon": "https://logo.clearbit.com/chenyanxiyu.github.io",
+                "url": "https://chenyanxiyu.github.io/pintree/"
+              },
+              {
+                "type": "link",
+                "addDate": 1722847095405,
+                "title": "Pintree-io/pintree：一个直观的工具，用于管理和导出您的本地书签到可共享的网站。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Pintree-io/pintree?tab=readme-ov-file"
+              },
+              {
+                "type": "link",
+                "addDate": 1722847038540,
+                "title": "X 上的 viggo：“给大家分享一下我这个 https://t.co/8BHzBfCGsC 静态书签网站项目到目前为止都用到了哪些免费服务，基本上白嫖就能做出一个完整的项目了。 1. https://t.co/LWDuoUdDRM 快速开发官网，需要付费买一些写好的组件，网上免费的也非常多，但是买这个真的很值得",
+                "icon": "https://logo.clearbit.com/x.com",
+                "url": "https://x.com/decohack/status/1803379553412268154"
+              },
+              {
+                "type": "link",
+                "addDate": 1722846882187,
+                "title": "松树",
+                "icon": "https://logo.clearbit.com/app.pintree.io",
+                "url": "https://app.pintree.io/"
+              }
+            ]
           }
         ]
       },
