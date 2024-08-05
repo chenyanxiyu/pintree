@@ -191,6 +191,13 @@
               },
               {
                 "type": "link",
+                "addDate": 1722847208707,
+                "title": "我的仓库-GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/chenyanxiyu?tab=repositories"
+              },
+              {
+                "type": "link",
                 "addDate": 1722847095405,
                 "title": "Pintree-io/pintree：一个直观的工具，用于管理和导出您的本地书签到可共享的网站。",
                 "icon": "https://logo.clearbit.com/github.com",
