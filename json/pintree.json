@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1708602913171,
+    "addDate": 1581412739398,
     "title": "收藏夹栏",
     "children": [
       {
@@ -606,6 +606,20 @@
                     "title": "改图鸭",
                     "icon": "https://logo.clearbit.com/www.gaituya.com",
                     "url": "https://www.gaituya.com/manhua/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724914150267,
+                    "title": "Remove Background - 0v0.ai",
+                    "icon": "https://logo.clearbit.com/0v0.ai",
+                    "url": "https://0v0.ai/rmbg/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724914697923,
+                    "title": "鲜艺AI抠图-不收费不联网的AI抠图工具",
+                    "icon": "https://logo.clearbit.com/kt.94xy.com",
+                    "url": "https://kt.94xy.com/"
                   }
                 ]
               },
@@ -4457,6 +4471,20 @@
             "title": "GitHub -ChatTTS将文字合成为语音",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/jianchang512/ChatTTS-ui"
+          },
+          {
+            "type": "link",
+            "addDate": 1724304651121,
+            "title": "抖音直播监控录制工具",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Fackblack/douyinlive"
+          },
+          {
+            "type": "link",
+            "addDate": 1724593829040,
+            "title": "呼来唤去 — 全局老板键",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/john-walks-slow/window-summoner"
           }
         ]
       },
@@ -4681,6 +4709,13 @@
             "title": "榜一短剧 - 短剧",
             "icon": "https://logo.clearbit.com/duanju.one",
             "url": "https://duanju.one/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724226275285,
+            "title": "磁力熊 - 豆瓣高分电影1080P下载",
+            "icon": "https://logo.clearbit.com/www.cilixiong.cc",
+            "url": "https://www.cilixiong.cc/"
           }
         ]
       },
@@ -4849,6 +4884,13 @@
             "title": "脚本免登CSDN下载",
             "icon": "https://logo.clearbit.com/",
             "url": "javascript: var name = prompt(\"Enter Down ID\", window.location.href.split('/')[window.location.href.split('/').length-1]);if(name){var oReq = new XMLHttpRequest();oReq.open(\"get\",\"http://download.csdn.net/index.php/rest/source/getsourceinfo/\"+name,false);oReq.send();var json_data =eval('(' + oReq.responseText+ ')');window.location.href =json_data.url;}"
+          },
+          {
+            "type": "link",
+            "addDate": 1723540738701,
+            "title": "Hotkey Cheatsheet - 常用软件快捷键大全",
+            "icon": "https://logo.clearbit.com/hotkeycheatsheet.com",
+            "url": "https://hotkeycheatsheet.com/"
           }
         ]
       },
@@ -5192,7 +5234,7 @@
   },
   {
     "type": "folder",
-    "addDate": 1708602913171,
+    "addDate": 1581412739407,
     "title": "其他收藏夹",
     "children": [
       {
